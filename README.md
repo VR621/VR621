@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">I'm a freelance developer with a strong passion to learn about all types of technology and my mission is to make a strong postive change in this amazing world of software development!</h3>
+<h3 align="center">I'm a freelance software developer with a strong passion to learn about all types of technology and my mission is to make a strong postive change in this amazing world of software technology!</h3>
 
-- 🌱 I’m currently learning **More about Tensorflow and Test Automation**
+- 🌱 I’m currently learning **More about Selenium, Tensorflow and Test Automation**
 
 - 📫 How to reach me **Vishalroy@hotmail.co.uk**
 
